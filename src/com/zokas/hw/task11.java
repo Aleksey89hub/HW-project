@@ -1,3 +1,5 @@
+package com.zokas.hw;
+
 import java.util.Random;
 
 public class task11 {

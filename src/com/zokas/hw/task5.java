@@ -1,3 +1,5 @@
+package com.zokas.hw;
+
 import java.util.Scanner;
 
 public class task5 {
