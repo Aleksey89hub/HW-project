@@ -12,11 +12,7 @@ public class Task4 {
             InputStreamReader inputStreamReader = new InputStreamReader(fileInputStream);
             BufferedReader br = new BufferedReader(inputStreamReader);
 
-//            while ((c=br.read())!= -1) {
-//                System.out.print((char)c);
-//                StringBuffer stringBuffer = new StringBuffer(c);
-//                System.out.print(stringBuffer);
-//            }
+
 
             String line = br.readLine();
 
