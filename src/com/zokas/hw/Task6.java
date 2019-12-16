@@ -8,9 +8,9 @@ public class Task6 {
     private static String a;
     private static boolean bool;
     private static final String date="\\d{4}\\/(0?[1-9]|1[012])\\/(0?[1-9]|[12][0-9]|3[01]) ([01]?[0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9].";
-//([01]?[0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9].
-    //2019/11/15 13:00:00 -надо вывести вот так !!!! не могу поставить пробел
-//
+
+   
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         a =input.nextLine();
